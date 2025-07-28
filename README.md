@@ -22,7 +22,7 @@ A modern bakery e-commerce platform built with **Ruby on Rails** and **React**, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your_username/banh_shop_on_rails.git
+git clone https://github.com/anhtrung123A/chiisana_bekarii.git
 cd banh_shop_on_rails
 ```
 ### 2. Install dependencies
